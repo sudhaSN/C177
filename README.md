@@ -1,4 +1,4 @@
-# PRO-C177-Code-Ref
+# PRO-C177
 Create virtual env using following commands to run this project:
 #### Windows:
 python3.8 -m venv venv
